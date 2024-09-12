@@ -12,7 +12,7 @@ Disasmer resolves:
 `xor    ecx, 0x48e797e9`<br/>
 `xor    ecx, 0x4aaf3067`<br/>
 `sub    ecx, 0xb71f8d6`<br/>
-> it is obvious, that ecx will be just **33**<br/>
-> this kind of obfuscation hides some values which can be hints to understand logic of shellcode<br/>
-<br/>
-Inspired by *Flare-on 10* task *where_am_i*
+> it is obvious, that ecx will be just **33**<br />
+> this kind of obfuscation hides some values which can be hints to understand logic of shellcode<br />
+\
+Inspired by **Flare-on 10** task *where_am_i*
