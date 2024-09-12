@@ -15,4 +15,4 @@ Disasmer resolves:
 > it is obvious, that ecx will be just **33**<br/>
 > this kind of obfuscation hides some values which can be hints to understand logic of shellcode<br/>
 <br/>
-Inspired by **Flare-on 10** task __where_am_i__
+Inspired by *Flare-on 10* task *where_am_i*
